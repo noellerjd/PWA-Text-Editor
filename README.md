@@ -1,6 +1,6 @@
 # PWA-Text-Editor
 
-![image](https://user-images.githubusercontent.com/50307506/196005320-2adbc861-3d5a-4e1e-81f8-c2b5293e2b5e.png)
+![image](https://user-images.githubusercontent.com/50307506/196010407-1a80d192-9239-475f-9442-71ed632a998a.png)
 
 
 ## Description
